@@ -1,1 +1,1 @@
-"# Logo-Animation-with-GSAP" 
+# Logo-Animation-with-GSAP
